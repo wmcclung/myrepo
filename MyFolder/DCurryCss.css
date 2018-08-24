@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: rgb(179, 11, 11);
+    font-family: Impact,
+    font-size: 40px;
+}
+h2 {
+    color: whitesmoke;
+    font-family: Impact,
+}
+.abouttext{
+    color: whitesmoke;
+    font-family: Georgia
+}
+h3 {
+    color: whitesmoke;
+    font-family: Impact,
+}
+h4 {
+    color:hotpink;
+    font-family: Impact,
+    font-size: large;
+}
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: rgb(255, 255, 255);
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: red
+}
+    
+  
